@@ -65,7 +65,7 @@
     </Furniture>
     <Furniture Name="Ceiling Fan">
         <Name>Deckenventilator</Name>
-        <Description>Flotter Ventilator, der nicht nur cool aussieht sondern auch den Raum kühlt! Verursacht eventuell etwas Lärm.</Description>
+        <Description>Flotter Ventilator, der nicht nur cool aussieht sondern auch den Raum kühlt! Verursacht etwas Lärm.</Description>
         <Color1>Base</Color1>
         <Color2>Blades</Color2>
     </Furniture>
@@ -91,7 +91,7 @@
     </Furniture>
     <Furniture Name="Industrial ventilation">
         <Name>Industrieller Ventilator</Name>
-        <Description>Dieser Lüfter wurde entwickelt, um einen Raum mit Server zu kühlen, das heißt nicht Menschen</Description>
+        <Description>Dieser Lüfter wurde entwickelt, um einen Raum mit Server zu kühlen, nicht für Menschen geeignet um raume mit personen zu kühlen</Description>
         <Color1>Base</Color1>
         <Color2>Blades</Color2>
     </Furniture>
@@ -102,7 +102,7 @@
         <Color2>Keys</Color2>
     </Furniture>
     <Furniture Name="90s Computer">
-        <Name>90er Computer</Name>
+        <Name>90ger Computer</Name>
         <Description>Die Rechenleistung eines Taschenrechners verteilt auf das Volumen von 2 Bierkästen</Description>
         <Color1>Casing</Color1>
         <Color2>Monitor</Color2>
@@ -173,7 +173,7 @@
     </Furniture>
     <Furniture Name="Stove">
 		<Name>Herd</Name>
-		<Description>Löche nutzen den Herd um Essen zu kochen. Ein Herd pro Koch.</Description>
+		<Description>Köche nutzen den Herd um Essen zu kochen. Ein Herd pro Koch.</Description>
 		<Color1>Base</Color1>
 		<Color2>Top</Color2>
 	</Furniture>
@@ -214,17 +214,17 @@
         <Color1>Frame</Color1>
     </Furniture>
     <Furniture Name="TV">
-        <Name>TV</Name>
+        <Name>Fernsehr</Name>
         <Description>Zeigt dir was in der Welt so passiert, sehr hilfreich um nicht mit anderen reden zu müssen</Description>
         <Color1>Frame</Color1>
     </Furniture>
     <Furniture Name="Bookshelf">
         <Name>Bücherregal</Name>
-        <Description>Komplett mit Büchern!</Description>
+        <Description>Komplett voll mit Büchern</Description>
         <Color1>Base</Color1>
     </Furniture>
     <Furniture Name="Reception desk">
-        <Name>Rezeption</Name>
+        <Name>Rezeptios Tisch</Name>
         <Description>Nötig um Aufträge entgegen zu nehmen.</Description>
         <Color1>Base</Color1>
     </Furniture>
@@ -240,7 +240,7 @@
     </Furniture>
     <Furniture Name="Table Cactus">
         <Name>Tischkaktus</Name>
-        <Description></Description>
+        <Description>Hoffentlich pixt sich keiner</Description>
         <Color1>Pot</Color1>
     </Furniture>
     <Furniture Name="Big Plant">
@@ -260,7 +260,7 @@
     </Furniture>
     <Furniture Name="Clock">
         <Name>Uhr</Name>
-        <Description>Zeitmaschine!(Nicht wirklich eine Zeitmaschine)</Description>
+        <Description>Zeigt die Zeit an</Description>
         <Color1>Background</Color1>
         <Color2>Frame</Color2>
     </Furniture>
@@ -276,12 +276,12 @@
     </Furniture>
     <Furniture Name="Tower Server">
         <Name>Tower Server</Name>
-        <Description>Ein High-Performance Server Tower (Nicht wirklich ein Tower)</Description>
+        <Description>Ein Server mit sehr viel leistung</Description>
         <Color1>Casing</Color1>
     </Furniture>
     <Furniture Name="Server Rack">
         <Name>Server Rack</Name>
-        <Description>Wenn ein Computer nicht genug ist</Description>
+        <Description>Wenn ein Computer nicht genug ist hat ein Server mit enorm viel leistung</Description>
         <Color1>Base</Color1>
     </Furniture>
     <Furniture Name="Phone">
@@ -291,7 +291,7 @@
         <Color2>Handle</Color2>
     </Furniture>
     <Furniture Name="Drawing Tablet">
-        <Name>Grafiktablet</Name>
+        <Name>Zeichnungspad</Name>
         <Description>So viel einfacher als manuelles Eingeben von Pixelkoordinaten</Description>
         <Color1>Base</Color1>
         <Color2>Pad</Color2>
@@ -317,19 +317,19 @@
     </Segment>
     <Segment Name="Double doors">
         <Name>Doppeltüren</Name>
-        <Description>Mehr Türen beim Türenkauf</Description>
+        <Description>Groze Tür für z.b. eingänge</Description>
     </Segment>
     <Segment Name="Double glass door">
         <Name>Doppelte Glastür</Name>
-        <Description></Description>
+        <Description>große Glas Tür für z.b. eingänge in große Raume</Description>
     </Segment>
     <Segment Name="Small window">
         <Name>kleines Fenster</Name>
-        <Description>Völlig nutzlos, wenn zwischen den Räumen platziert</Description>
+        <Description>Ein schöner ausblick auf Stadt/Wüste/Winter/Wiese</Description>
     </Segment>
     <Segment Name="Large window">
         <Name>großes Fenster</Name>
-        <Description>Wenn Du noch mehr Fenster möchtest</Description>
+        <Description>Für einen großen ausblick</Description>
     </Segment>
     <Segment Name="Wide window">
         <Name>breites Fenster</Name>
@@ -337,10 +337,10 @@
     </Segment>
     <Segment Name="Arched gate">
         <Name>Torbogen</Name>
-        <Description></Description>
+        <Description>Ein Tor mit Bogen</Description>
     </Segment>
     <Segment Name="Open gate">
         <Name>Offenes Tor</Name>
-        <Description></Description>
+        <Description>Damit jeder Einbrechen kann</Description>
     </Segment>
 </Furniture>
